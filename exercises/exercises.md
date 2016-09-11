@@ -28,4 +28,4 @@ data LiftItOut f a =
   LiftItOut (f a)
 
 ```
-_Solutions can be found [here]()_
+_Solutions can be found [here](http://goo.gl/gnjJKv)_

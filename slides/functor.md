@@ -93,4 +93,4 @@ data D = D (Array Word Word) Int Int
 <!-- .slide: data-background="img/background-green-16x9.png" -->
 ### Time for Haskell Codin'
 
-### GOTO [goo.gl/???](http://www.goo.gl/???);
+### GOTO [goo.gl/???](http://goo.gl/E2ofCZ);
