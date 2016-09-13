@@ -75,7 +75,7 @@ data BoolAndMaybeSomethingElse a = Falsish | Truish a
 
 <!-- .slide: data-background="img/background-green-16x9.png" -->
 ```
-newtype Muf = InF { outF :: f(Mu f) }
+newtype Mu f = InF { outF :: f(Mu f) }
 ```
 ```Yes: kind * → *```
 <!-- .element: class="fragment" data-fragment-index="2" -->
